@@ -251,9 +251,6 @@ http://a.codekk.com/detail/Android/ayyb1988/PagerSlidingTabStrip%20%E6%BA%90%E7%
 android开发一般都使用什么框架？
 
 
-SlideAndDragListView
-https://github.com/Trinea/android-open-project
-
 SwipeMenuListView
 https://github.com/baoyongzhang/SwipeMenuListView
 
